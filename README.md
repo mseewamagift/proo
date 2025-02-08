@@ -5,7 +5,7 @@
 </head>
 <body>
     <body style="background-color:lightgreen"> 
-  <img src="https://files.catbox.moe/21r9fg.jpg" alt="09" border="2" width="150"/></a>
+  <img src="https://files.catbox.moe/21r9fg.jpg" alt="09" border="2" width="400"/></a>
   <h1>JAMES tech</h1>
   
   <h1>
@@ -14,12 +14,8 @@
  
 
     FOCUS WITH THE OPORTUNITY if choosen try your luck today opotunity should be given to only 50 people
-  </h1>
 
-<body>
-  
-</body>
-  <b>HERE IS AN EXAMPLE OF PEOPLE,THEIR ROLES AND THEIR EARNINGS</b>
+  HERE IS AN EXAMPLE OF PEOPLE,THEIR ROLES AND THEIR EARNINGS
   <table border="1">
     <table width="80%"border="16"bordercolor="yellow"background="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/JIMMIE MD-main/lib/assets/asta.jpg"
       <tr>
@@ -60,11 +56,7 @@
 
 </html>
 <summary>Read more</summary>
-<p>we also
-1.  buy and sell channels
-2.  buy and sell wa groups
-3.  do channel hyping  
-  4.  sell virtual numbers
+<p>we also buy and sell channels
 <form action="/submit" method="post">
 
   <label for="gender">Gender:</label><br>
