@@ -13,7 +13,7 @@
   <p>
  
 
-    <u>FOCUS WITH THE OPORTUNITY</u>  if choosen try your luck today opotunity should be given to only 50 people
+    FOCUS WITH THE OPORTUNITY if choosen try your luck today opotunity should be given to only 50 people
   </h1>
 
 <body>
