@@ -9,7 +9,7 @@
   <h1>JAMES tech</h1>
  
 
-    FOCUS WITH THE OPORTUNITY if choosen try your luck today opotunity should be given to only 50 people
+   <h1> FOCUS WITH THE OPORTUNITY if choosen try your luck today opotunity should be given to only 50 people </h1>
 
   HERE IS AN EXAMPLE OF PEOPLE,THEIR ROLES AND THEIR EARNINGS
   <table border="1">
@@ -45,58 +45,15 @@
 
 
 </body>
-
+<p>
 </html>
 <summary>Read more</summary>
 <p>we also buy and sell channels
-<form action="/submit" method="post">
-
-  <label for="gender">Gender:</label><br>
-
-  <input type="radio" id="male" name="gender" value="male"> Male<br>
-
-  <input type="radio" id="female" name="gender" value="female"> Female<br>
-
-  <input type="submit" value="Submit">
-
-</form>
 </p>
-</details>
-
-    
-    <p>
-    <input type="checkbox" id="myCheckbox" name="checkboxName"> 
-
-<label for="myCheckbox">im intrested with advertising</label> 
-      <p>
-        <input type="checkbox" id="myCheckbox" name="checkboxName">
-        <label for="myCheckbox">im intrested with premium</label>
-      </p>
-      
-      
-      <p><b>BILLING SYSTEM</b></p>
-      <table border="1"
-<table width="40%"borders="1000"bordercolor="red"background="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/JIMMIE MD-main/lib/assets/asta.jpg"
-  <tr>
-    <th>followers</th>
-    <th>price</th>
-  </tr>
-  <tr>
-    <td>1k followers</td>
-    <td>800ksh</td>
-  </tr>
-  <tr>
-    <td>2k followers</td>
-    <td>1000ksh</td>
-  </tr>
-  <tr>
-    <td>3k folloers</td>
-    <td>1700ksh</td>
-  </tr>
-      <p> <b>REGISTER NOW TO BE ADDED TO EARNLIST</b>
 
 
-<a href="https://wa.me/message/HGNTCFOBZ4EOL1"<i> <p style="font-size:60px;">tap me to register</i>/
+
+"https://wa.me/message/HGNTCFOBZ4EOL1"<i> <p style="font-size:60px;"></i>/
 </html>
 
 
