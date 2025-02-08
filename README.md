@@ -1,10 +1,7 @@
-<!DOCTYPE html>
 
-<html>
-<head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
-  <title>JAMESTECH PROGRAM</title>
+  JAMESTECH PROGRAM
 </head>
 <body>
   <style>
