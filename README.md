@@ -41,10 +41,8 @@
         </tr>
     </table>
     <h1>     
-      
-    </h1>
-    
-    https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H">Visit Our free baze today in whatsapp and click register button to be registered
+  
+
 
 </body>
 
