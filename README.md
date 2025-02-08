@@ -7,10 +7,6 @@
     <body style="background-color:lightgreen"> 
   <img src="https://files.catbox.moe/21r9fg.jpg" alt="09" border="2" width="400"/></a>
   <h1>JAMES tech</h1>
-  
-  <h1>
-<body>
-  <p>
  
 
     FOCUS WITH THE OPORTUNITY if choosen try your luck today opotunity should be given to only 50 people
@@ -48,9 +44,7 @@
       
     </h1>
     
-    <h1>
-    <a href="https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H">Visit Our free baze today in whatsapp and click register button to be registered</a>
- <details>
+    https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H">Visit Our free baze today in whatsapp and click register button to be registered
 
 </body>
 
