@@ -4,38 +4,7 @@
   JAMESTECH PROGRAM
 </head>
 <body>
-  <style>
-    .rotating-text {
-      animation: rotate 0.0000003s linear infinite; /* Rotate continuously for 5 seconds */
-    }
-
-    @keyframes rotate {
-      from { transform: rotate(0deg); } 
-      to { transform: rotate(3600000deg); } 
-    }
-  </style>
-</head>
-<body>
-  <div class="rotating-text">SIR JAMES TECH PROJECT!</div>
-</body>
-To add Mpesa mode of payment in HTML, you can create a form with the necessary fields for the user to enter their Mpesa details. Here's an example code snippet:
-
-```html
-<form action="mpesa_payment.php" method="post">
-  <label for="phone_number">Phone Number:</label>
-  <input type="text" id="phone_number" name="phone_number" required><br><br>
-  
-  <label for="amount">Amount:</label>
-  <input type="text" id="100" name="Ann" required><br><br>
-  
-  <input type="submit" value="Pay with Mpesa">
-</form>
-```
-
-</html>
-  
-  
-  <body style="background-color:lightgreen"> 
+    <body style="background-color:lightgreen"> 
   <img src="https://files.catbox.moe/21r9fg.jpg" alt="09" border="2" width="150"/></a>
   <h1>JAMES tech</h1>
   
@@ -48,23 +17,7 @@ To add Mpesa mode of payment in HTML, you can create a form with the necessary f
   </h1>
 
 <body>
-  <style>
-    .rotating-text {
-      animation: rotate 0.00001s linear infinite; /* Rotate continuously for 5 seconds */
-    }
-
-    @keyframes rotate {
-      from { transform: rotate(0deg); } 
-      to { transform: rotate(360deg); } 
-    }
-  </style>
-</head>
-<body>
-  <div class="rotating-text">welcome to my project i love you all</div>
-
-</html>
-
- 
+  
 </body>
   <b>HERE IS AN EXAMPLE OF PEOPLE,THEIR ROLES AND THEIR EARNINGS</b>
   <table border="1">
